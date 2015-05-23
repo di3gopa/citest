@@ -1,4 +1,4 @@
-drupal project
+drupal Project
 ======
 
 Drupal project is for SPS
